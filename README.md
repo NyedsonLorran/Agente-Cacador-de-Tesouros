@@ -1,5 +1,6 @@
 
 <img align="left" height="160" src="https://github.com/user-attachments/assets/33cb356f-76f2-42d7-84bb-722e684e6c67" />
+<img align="left" height="160" src="https://github.com/user-attachments/assets/33cb356f-76f2-42d7-84bb-722e684e6c67" />
 
 <h1> AGENTE CAÇADOR DE TESOUROS </h1>
 
