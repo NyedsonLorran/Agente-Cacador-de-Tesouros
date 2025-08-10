@@ -1,1 +1,5 @@
-mini projeto desenvolvido para a disciplina de IA util python, que simula um agente explorador que navega em um mapa gerado aleatoriamente, buscando um tesouro e evitando obstáculos. Utilizando busca em largura para tomada de decisão, aproveitei e adicionei o Tkinter para a interface gráfica, permitindo visualizar o processo de exploração do agente
+
+
+
+
+mini projeto em python desenvolvido para a disciplina de IA, que consiste em um agente explorador inteligente capaz de percorrer um ambiente bidimensional, representado por uma matriz, com o objetivo de encontrar um tesouro escondido. O ambiente contém diferentes tipos de elementos, como terrenos livres, poços, obstáculos e indicadores de proximidade ao tesouro. Utilizando técnicas de busca como BFS (Breadth-First Search), o agente realiza ciclos de Percepção, Decisão e Ação, analisando o mapa e escolhendo o próximo movimento de forma eficiente. A interface gráfica bem simples foi desenvolvida com Tkinter, exibindo o agente e os elementos do ambiente por meio de ícones visuais que facilitam o acompanhamento da exploração em tempo real do agente.
