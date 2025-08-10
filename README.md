@@ -1,0 +1,1 @@
+mini projeto desenvolvido para a disciplina de IA util python, que simula um agente explorador que navega em um mapa gerado aleatoriamente, buscando um tesouro e evitando obstáculos. Utilizando busca em largura para tomada de decisão, aproveitei e adicionei o Tkinter para a interface gráfica, permitindo visualizar o processo de exploração do agente
